@@ -1,0 +1,194 @@
+Manifest-Version: 1.0
+spring-expression-Implementation-Version: 4.2.4.RELEASE
+antlr-runtime-Implementation-Version: 3.5
+spring-beans-Implementation-Version: 4.2.4.RELEASE
+mysql-connector-java-Extension-Name: mysql-connector-java
+javaee-api-Extension-Name: javaee-api
+quartz-Implementation-Version: 2.2.2
+spring-batch-core-Implementation-Version: 3.0.6.RELEASE
+mybatis-spring-Implementation-Version: 1.2.3
+log4j-slf4j-impl-Extension-Name: log4j-slf4j-impl
+egovframework_rte_fdl_cmmn-Extension-Name: egovframework.rte.fdl.cmmn
+stringtemplate-Implementation-Version: 3.2.1
+slf4j-api-Implementation-Version: 1.7.7
+hamcrest-all-Implementation-Version: 1.3
+spring-integration-core-Extension-Name: spring-integration-core
+spring-context-Extension-Name: spring-context
+spring-orm-Implementation-Version: 4.2.4.RELEASE
+egovframework_rte_ptl_mvc-Implementation-Version: 3.7.0
+spring-core-Extension-Name: spring-core
+egovframework_rte_ptl_mvc-Extension-Name: egovframework.rte.ptl.mvc
+spring-batch-integration-Implementation-Version: 3.0.6.RELEASE
+antlr-Extension-Name: antlr
+egovframework_rte_bat_core-Implementation-Version: 3.7.0
+aopalliance-Implementation-Version: 1.0
+egovframework_rte_fdl_cmmn-Implementation-Version: 3.7.0
+ibatis-sqlmap-Extension-Name: ibatis-sqlmap
+xpp3_min-Implementation-Version: 1.1.4c
+mysql-connector-java-Implementation-Version: 5.1.31
+javaee-api-Implementation-Version: 7.0
+spring-web-Implementation-Version: 4.2.4.RELEASE
+antlr-Implementation-Version: 2.7.7
+hsqldb-Extension-Name: hsqldb
+commons-io-Implementation-Version: 2.4
+spring-modules-validation-Implementation-Version: 0.9
+ST4-Extension-Name: ST4
+antlr-runtime-Extension-Name: antlr-runtime
+com_ibm_jbatch-tck-spi-Extension-Name: com.ibm.jbatch-tck-spi
+surefire-api-Extension-Name: surefire-api
+commons-io-Extension-Name: commons-io
+spring-batch-integration-Extension-Name: spring-batch-integration
+spring-webmvc-Implementation-Version: 4.2.4.RELEASE
+egovframework_rte_psl_dataaccess-Extension-Name: egovframework.rte.psl
+ .dataaccess
+spring-core-Implementation-Version: 4.2.4.RELEASE
+egovframework_rte_fdl_logging-Implementation-Version: 3.7.0
+quartz-Extension-Name: quartz
+c3p0-Implementation-Version: 0.9.1.1
+surefire-api-Implementation-Version: 2.6
+commons-logging-Extension-Name: commons-logging
+spring-context-Implementation-Version: 4.2.4.RELEASE
+commons-digester-Implementation-Version: 1.8
+aspectjweaver-Implementation-Version: 1.8.0
+commons-beanutils-Extension-Name: commons-beanutils
+spring-batch-core-Extension-Name: spring-batch-core
+c3p0-Extension-Name: c3p0
+egovframework_rte_psl_dataaccess-Implementation-Version: 3.7.0
+spring-retry-Extension-Name: spring-retry
+spring-web-Extension-Name: spring-web
+spring-webmvc-Extension-Name: spring-webmvc
+javax_mail-Implementation-Version: 1.5.0
+spring-orm-Extension-Name: spring-orm
+activation-Extension-Name: activation
+egovframework_rte_bat_core-Extension-Name: egovframework.rte.bat.core
+commons-collections-Implementation-Version: 3.2.1
+commons-beanutils-Implementation-Version: 1.8.3
+log4j-slf4j-impl-Implementation-Version: 2.8.2
+commons-logging-Implementation-Version: 1.2
+commons-pool-Implementation-Version: 1.5.4
+spring-context-support-Extension-Name: spring-context-support
+xstream-Extension-Name: xstream
+jcl-over-slf4j-Implementation-Version: 1.7.25
+commons-dbcp-Extension-Name: commons-dbcp
+spring-batch-test-Implementation-Version: 3.0.6.RELEASE
+egovframework_rte_fdl_property-Implementation-Version: 3.7.0
+persistence-api-Implementation-Version: 1.0
+surefire-junit-Implementation-Version: 2.6
+xmlpull-Implementation-Version: 1.1.3.1
+jettison-Extension-Name: jettison
+aspectjweaver-Extension-Name: aspectjweaver
+spring-retry-Implementation-Version: 1.1.0.RELEASE
+jstl-Implementation-Version: 1.2
+xpp3_min-Extension-Name: xpp3_min
+jstl-Extension-Name: jstl
+commons-validator-Extension-Name: commons-validator
+jcl-over-slf4j-Extension-Name: jcl-over-slf4j
+Main-Class: egovframework.example.bat.scheduler.EgovSchedulerJobRunner
+egovframework_rte_fdl_logging-Extension-Name: egovframework.rte.fdl.lo
+ gging
+surefire-junit-Extension-Name: surefire-junit
+xstream-Implementation-Version: 1.4.7
+jettison-Implementation-Version: 1.2
+log4jdbc-Extension-Name: log4jdbc
+spring-jdbc-Implementation-Version: 4.2.4.RELEASE
+javax_batch-api-Extension-Name: javax.batch-api
+log4j-api-Extension-Name: log4j-api
+log4j-over-slf4j-Implementation-Version: 1.7.25
+javax_batch-api-Implementation-Version: 1.0
+Package: egovframework.example.bat.scheduler
+spring-modules-validation-Extension-Name: spring-modules-validation
+spring-batch-infrastructure-Extension-Name: spring-batch-infrastructur
+ e
+mybatis-Implementation-Version: 3.3.0
+slf4j-api-Extension-Name: slf4j-api
+Class-Path: egovframework.rte.bat.core-3.7.0.jar egovframework.rte.fdl
+ .cmmn-3.7.0.jar aspectjweaver-1.8.0.jar commons-lang3-3.3.2.jar sprin
+ g-context-support-4.2.4.RELEASE.jar spring-orm-4.2.4.RELEASE.jar spri
+ ng-webmvc-4.2.4.RELEASE.jar spring-beans-4.2.4.RELEASE.jar spring-exp
+ ression-4.2.4.RELEASE.jar spring-batch-test-3.0.6.RELEASE.jar commons
+ -io-2.4.jar hamcrest-all-1.3.jar spring-batch-core-3.0.6.RELEASE.jar 
+ com.ibm.jbatch-tck-spi-1.0.jar javax.batch-api-1.0.jar xstream-1.4.7.
+ jar xmlpull-1.1.3.1.jar xpp3_min-1.1.4c.jar jettison-1.2.jar spring-b
+ atch-infrastructure-3.0.6.RELEASE.jar spring-batch-integration-3.0.6.
+ RELEASE.jar spring-integration-core-4.0.1.RELEASE.jar spring-retry-1.
+ 1.0.RELEASE.jar spring-messaging-4.2.4.RELEASE.jar spring-aop-4.2.4.R
+ ELEASE.jar aopalliance-1.0.jar spring-tx-4.2.4.RELEASE.jar spring-jdb
+ c-4.2.4.RELEASE.jar egovframework.rte.ptl.mvc-3.7.0.jar spring-module
+ s-validation-0.9.jar commons-validator-1.4.0.jar commons-beanutils-1.
+ 8.3.jar commons-digester-1.8.jar egovframework.rte.psl.dataaccess-3.7
+ .0.jar spring-context-4.2.4.RELEASE.jar javaee-api-7.0.jar javax.mail
+ -1.5.0.jar activation-1.1.jar ibatis-sqlmap-2.3.4.726.jar mybatis-3.3
+ .0.jar mybatis-spring-1.2.3.jar commons-collections-3.2.1.jar egovfra
+ mework.rte.fdl.idgnr-3.7.0.jar egovframework.rte.fdl.property-3.7.0.j
+ ar spring-web-4.2.4.RELEASE.jar egovframework.rte.fdl.logging-3.7.0.j
+ ar log4j-core-2.8.2.jar log4j-api-2.8.2.jar log4j-slf4j-impl-2.8.2.ja
+ r jcl-over-slf4j-1.7.25.jar log4j-over-slf4j-1.7.25.jar jstl-1.2.jar 
+ spring-core-4.2.4.RELEASE.jar commons-logging-1.2.jar persistence-api
+ -1.0.jar quartz-2.2.2.jar c3p0-0.9.1.1.jar slf4j-api-1.7.7.jar hsqldb
+ -1.8.0.10.jar antlr-3.5.jar antlr-runtime-3.5.jar stringtemplate-3.2.
+ 1.jar antlr-2.7.7.jar ST4-4.0.7.jar surefire-junit-2.6.jar surefire-a
+ pi-2.6.jar log4jdbc-1.2.jar commons-dbcp-1.4.jar commons-pool-1.5.4.j
+ ar mysql-connector-java-5.1.31.jar
+spring-aop-Extension-Name: spring-aop
+log4j-core-Extension-Name: log4j-core
+spring-messaging-Extension-Name: spring-messaging
+commons-dbcp-Implementation-Version: 1.4
+mybatis-Extension-Name: mybatis
+hamcrest-all-Extension-Name: hamcrest-all
+spring-context-support-Implementation-Version: 4.2.4.RELEASE
+log4j-api-Implementation-Version: 2.8.2
+egovframework_rte_fdl_property-Extension-Name: egovframework.rte.fdl.p
+ roperty
+spring-expression-Extension-Name: spring-expression
+log4j-over-slf4j-Extension-Name: log4j-over-slf4j
+commons-pool-Extension-Name: commons-pool
+Built-By: sds
+aopalliance-Extension-Name: aopalliance
+spring-batch-test-Extension-Name: spring-batch-test
+persistence-api-Extension-Name: persistence-api
+com_ibm_jbatch-tck-spi-Implementation-Version: 1.0
+spring-beans-Extension-Name: spring-beans
+spring-aop-Implementation-Version: 4.2.4.RELEASE
+spring-integration-core-Implementation-Version: 4.0.1.RELEASE
+log4jdbc-Implementation-Version: 1.2
+spring-tx-Implementation-Version: 4.2.4.RELEASE
+spring-tx-Extension-Name: spring-tx
+log4j-core-Implementation-Version: 2.8.2
+activation-Implementation-Version: 1.1
+ibatis-sqlmap-Implementation-Version: 2.3.4.726
+hsqldb-Implementation-Version: 1.8.0.10
+egovframework_rte_fdl_idgnr-Implementation-Version: 3.7.0
+spring-batch-infrastructure-Implementation-Version: 3.0.6.RELEASE
+mybatis-spring-Extension-Name: mybatis-spring
+commons-validator-Implementation-Version: 1.4.0
+spring-jdbc-Extension-Name: spring-jdbc
+commons-digester-Extension-Name: commons-digester
+Extension-List: egovframework.rte.bat.core egovframework.rte.fdl.cmmn 
+ aspectjweaver commons-lang3 spring-context-support spring-orm spring-
+ webmvc spring-beans spring-expression spring-batch-test commons-io ha
+ mcrest-all spring-batch-core com.ibm.jbatch-tck-spi javax.batch-api x
+ stream xmlpull xpp3_min jettison spring-batch-infrastructure spring-b
+ atch-integration spring-integration-core spring-retry spring-messagin
+ g spring-aop aopalliance spring-tx spring-jdbc egovframework.rte.ptl.
+ mvc spring-modules-validation commons-validator commons-beanutils com
+ mons-digester egovframework.rte.psl.dataaccess spring-context javaee-
+ api javax.mail activation ibatis-sqlmap mybatis mybatis-spring common
+ s-collections egovframework.rte.fdl.idgnr egovframework.rte.fdl.prope
+ rty spring-web egovframework.rte.fdl.logging log4j-core log4j-api log
+ 4j-slf4j-impl jcl-over-slf4j log4j-over-slf4j jstl spring-core common
+ s-logging persistence-api quartz c3p0 slf4j-api hsqldb antlr antlr-ru
+ ntime stringtemplate antlr ST4 surefire-junit surefire-api log4jdbc c
+ ommons-dbcp commons-pool mysql-connector-java
+commons-lang3-Extension-Name: commons-lang3
+ST4-Implementation-Version: 4.0.7
+spring-messaging-Implementation-Version: 4.2.4.RELEASE
+egovframework_rte_fdl_idgnr-Extension-Name: egovframework.rte.fdl.idgn
+ r
+commons-collections-Extension-Name: commons-collections
+javax_mail-Extension-Name: javax.mail
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_202
+stringtemplate-Extension-Name: stringtemplate
+commons-lang3-Implementation-Version: 3.3.2
+xmlpull-Extension-Name: xmlpull
+
