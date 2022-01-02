@@ -41,7 +41,7 @@ import egovframework.rte.psl.orm.ibatis.support.AbstractLobTypeHandler;
  * large enough binary type will work.
  *
  * @author Juergen Hoeller
- * @since 1.1.5
+ * @since 1.1.5  
  * @see org.springframework.orm.ibatis.SqlMapClientFactoryBean#setLobHandler
  */
 @SuppressWarnings("deprecation")
