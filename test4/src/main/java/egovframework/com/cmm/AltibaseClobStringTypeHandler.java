@@ -51,11 +51,11 @@ public class AltibaseClobStringTypeHandler extends AbstractLobTypeHandler {
 
 	/**
 	 * Constructor used by iBATIS: fetches config-time LobHandler from
-	 * SqlMapClientFactoryBean.
+	 * SqlMapClientFactoryBean.dasdasdsd
 	 * @see org.springframework.orm.ibatis.SqlMapClientFactoryBean#getConfigTimeLobHandler
 	 */
 	public AltibaseClobStringTypeHandler() {
-		super();
+		super(); 
 	}
 
 	/**
